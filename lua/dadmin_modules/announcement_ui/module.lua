@@ -1,0 +1,1 @@
+include_cl 'dadmin_modules/announcement_ui/paint.lua'

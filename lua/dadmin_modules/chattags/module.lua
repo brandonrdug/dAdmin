@@ -1,0 +1,1 @@
+include_cl 'dadmin_modules/chattags/chattags.lua'

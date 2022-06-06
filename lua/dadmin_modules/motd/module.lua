@@ -1,0 +1,1 @@
+include_sh 'dadmin_modules/motd/motd.lua'
