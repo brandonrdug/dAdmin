@@ -94,14 +94,8 @@ da.cfg.AdminmodeWeapons = {
 
 da.cfg.BanLimits = {
 	['superadmin'] 		= 0, -- perma
-	['manager'] 		= 0, -- perma
-	['senioradmin'] 	= 0, -- perma
-	['council'] 		= 0, -- perma
-	['headadmin'] 		= 0, -- perma
 	['admin'] 			= 60 * 60 * 24 * 70, -- 10 weeks
-	['seniormod'] 		= 60 * 60 * 24 * 14, -- 2 weeks
 	['moderator'] 		= 60 * 60 * 24 * 2,	 -- 2 days
-	['trialmod'] 		= 60 * 60 * 16, 	 -- 16 hours
 }
 
 da.cfg.BanMessage = [[------------
